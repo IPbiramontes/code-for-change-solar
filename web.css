@@ -1,0 +1,63 @@
+header {
+      text-align:center;
+      background-size: cover;
+      color: white;
+      background-image:url("https://s-media-cache-ak0.pinimg.com/originals/11/e0/71/11e071c9c0f8b83dbd54038e6b12e99a.gif");
+      font-family: 'Dosis', sans-serif;
+    }
+.nav {
+      color: white;
+    }
+h1 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 90px;
+      text-align: center;
+      color:black;
+      text-shadow: 0 0 30px #FF0000;
+      }
+img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+      font-family: 'Poppins', sans-serif;
+    }
+li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      font-family: 'Poppins', sans-serif;
+    }
+div{
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+      font-family: 'Poppins', sans-serif;
+    }
+
+h2{
+    font-family: 'Baloo Thambi', cursive;
+    color:#33728A;
+}
+
+#popup{ 
+  position:absolute;
+  height:400px;
+  width:500px;
+  background-color:white;
+  top: 900px;
+  left:32%;
+  z-index: 1;
+  box-shadow: 10px 10px 5px #FF0000;
+  background-image:url('collage.jpg');
+  background-size:contain;
+  background-repeat:no-repeat;
+  background-position:center center;
+}
+
+.hide{
+    display:none;
+  
+}
